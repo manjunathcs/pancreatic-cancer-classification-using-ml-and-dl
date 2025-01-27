@@ -1,0 +1,21 @@
+Pancreatic Cancer Classification using Machine Learning.
+
+Algorithm / Model Used: Random Forest Classifier
+
+Accuracy Train score: 100% and Test Score: 99.2%.
+
+Algorithm / Model Used: Naive Bayes.
+
+Accuracy Train score: 99.3% and Test Score: 99.2%.
+
+****************************************************************
+Pancreatic Cancer Classification using Deep Learning.
+
+Algorithm / Model Used: CNN Model Architecture.
+
+Training Accuracy of 98.7%.
+Validation Accuracy of 100%.
+
+
+****************************************************************
+
